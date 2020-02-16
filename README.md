@@ -1,0 +1,2 @@
+# mogodb
+installation and commands
